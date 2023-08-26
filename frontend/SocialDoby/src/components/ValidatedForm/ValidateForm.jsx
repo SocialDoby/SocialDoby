@@ -10,8 +10,8 @@ const ValidatedForm = () => {
             <div className='login-input'>
                 <h2>Validación</h2>
                 <p>
-                    Por favor, active la cuenta a través del correo de
-                    verificación.
+                    Gracias por registrarse, active la cuenta a través del
+                    correo de verificación.
                 </p>
             </div>
             <div className='button-container'>

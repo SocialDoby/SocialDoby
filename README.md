@@ -43,6 +43,7 @@ Para colaborar en el proyecto si eres colaborador sigue estos pasos, si quieres 
     git add <nombre-de-archivo>
     
     
+    
 6. **Hacer un commit:** Crea un commit con un mensaje descriptivo.
     
     git commit -m "Mensaje descriptivo del commit"
